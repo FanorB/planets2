@@ -3,3 +3,5 @@ The two moons  may be a problem for Wolfman
 Advise him to bring a sweater
 A sarf might also be a good idea
 Fanor just made an awful change.
+And bring a friend
+Both changes can exist in the same file.
